@@ -1,4 +1,4 @@
-import classes from "./recipeDetails.module.css";
+import classes from "./recipedetails.module.css";
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 
